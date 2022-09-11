@@ -19,7 +19,6 @@
   "devDependencies": {
   },
   "peerDependencies": {
-    "eslint": "^4.9.0"
   },
   "repository": {
     "type": "git",
