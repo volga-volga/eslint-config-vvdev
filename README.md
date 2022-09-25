@@ -23,6 +23,7 @@ where `${SOURCES}` is root of linted code
 Be default used react-native eslint config. To use another config you can specify environment:
 ```
 "extends": "vvdev/react-native", // react-native
+"extends": "vvdev/react", // react js
 "extends": "vvdev/node", // node-js
 ```
 

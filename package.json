@@ -1,20 +1,21 @@
 {
   "name": "eslint-config-vvdev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint config for react-native developers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-react-native": "^3.6.0",
     "eslint-plugin-react-native-globals": "^0.1.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "@typescript-eslint/eslint-plugin": "3.9.1",
-    "@typescript-eslint/parser": "^3.9.1"
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {
   },
